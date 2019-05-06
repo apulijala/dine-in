@@ -1,0 +1,1 @@
+Please read this file for setting up dine in repository.
